@@ -1,11 +1,12 @@
-# Título del trabajo
+## Handpan electrónico.
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El objetivo del trabajo consiste en construir una estructura de hardware que mediante sensores reproduzca los sonidos que produciría un handpan. 
 
-## Integrantes del equipo
+## Participantes.
+Raquel Roca Pereira. r-roca
+Iria Touriño Villanueva. Iriatourino.
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
 
-## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+## Objetivos del trabajo.
+•	Programar la maqueta de handpan para que al tocarla reproduzca el sonido deseado.
+•	Transmitir el sonido adecuado al ordenador y reproducirlo.
